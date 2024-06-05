@@ -19,5 +19,9 @@ Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 
 [Vezalna shema - EasyEDA](vezalna_shema_EasyEDA.png)
 
+## Arduino programska koda
+
+Programsko kodo lahko najdete tukaj: [Arduino program]()
+
 
 
