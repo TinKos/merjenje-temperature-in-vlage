@@ -15,5 +15,9 @@ Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 ### Fritzing
 [Vezalna shema - Fritzing](vezalna_shema_Fritzing.png)
 
+### EasyEDA
+
+[Vezalna shema - EasyEDA ()
+
 
 
