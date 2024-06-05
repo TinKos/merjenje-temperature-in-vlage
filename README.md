@@ -17,7 +17,7 @@ Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 
 ### EasyEDA
 
-[Vezalna shema - EasyEDA ()
+[Vezalna shema - EasyEDA](vezalna_shema_EasyEDA.png)
 
 
 
