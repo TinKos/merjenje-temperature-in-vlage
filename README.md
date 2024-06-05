@@ -32,7 +32,7 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 ## Ocena natančnosti
 
 ## Komentar
-Naprava deluje, tako kot je bilo načrtovano.
+Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen.
 
 Za izboljšanje te naprave bi lahko uporabili senzor DHT22 namesto DHT11, kar bi omogočilo izpis temperature na 0.1°C natančno, namesto na 1°C, kot ga omogoča senzor DHT11. Poleg tega bi lahko nadgradili mikrokontroler, na primer z uporabo Arduino UNO REV4 WiFi, ESP32, MKR WiFi, Portenta H7 itd. Ti mikrokontrolerji ponujajo dodatne funkcionalnosti, kot je WiFi povezljivost, kar bi omogočilo nadzor nad temperaturo in vlago preko Arduino Clouda. S tem bi lahko shranjevali in analizirali podatke ter imeli dodatne možnosti upravljanja naprave. Te izboljšave bi pripomogle k večji natančnosti, funkcionalnosti in uporabniku prijaznosti vaše naprave.
 
