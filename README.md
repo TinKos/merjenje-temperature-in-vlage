@@ -32,6 +32,10 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 ## Ocena natančnosti
 
 ## Komentar
+Naprava deluje, tako kot je bilo načrtovano.
+
+Za izboljšanje te naprave, bi lahko uporabili drug DHT senzor (npr. DHT22), ki bi omogočil izpis temperature na 0.1°C natančno, namesto na 1°C, ki ga omogoča senzor DHT11.
+Namesto Arduino UNO REV3 mikrokontrolerja, bi lahko uporabili npr. Arduino UNO REV4 WiFi, ESP32, MKR WiFi, Portenta H7 itd., ki bi omogčili nadzor nad temperaturo in vlago preko Arduino Clouda.
 
 
 
