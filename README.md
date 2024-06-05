@@ -29,5 +29,10 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 
 ## Videoposnetek delovanja
 
+## Ocena natančnosti
+
+## Komentar
+
+
 
 
