@@ -1,4 +1,5 @@
-# Merjenje-temperature-in-vlage
+# Arduino merjenje temperature in vlage
+### Projektna naloga pri predmetu MRE
 
 ## Opis delovanja
 
