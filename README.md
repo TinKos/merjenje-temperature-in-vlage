@@ -10,7 +10,7 @@ Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki periodično 
 
 ## Kosovnica 
 
-Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica.xlsx)
+Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica.xlsx)
 
 ## Vezalna shema
 ### Fritzing
