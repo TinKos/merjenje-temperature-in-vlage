@@ -21,7 +21,7 @@ Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 
 ## Arduino programska koda
 
-Programsko kodo lahko najdete tukaj: [Arduino program]()
+Programsko kodo lahko najdete tukaj: [Arduino program](MRE_merjenje_temperature_vlage.ino])
 
 
 
