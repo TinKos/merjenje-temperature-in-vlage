@@ -22,6 +22,9 @@ Podrobni seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 ## Arduino programska koda
 
 Programsko kodo lahko najdete tukaj: [Arduino program](MRE_merjenje_temperature_vlage.ino)
+Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate nameščene aplikacije Arduino IDE, jo prenesite in namestite iz [uradne spletne strani Arduino](https://www.arduino.cc/en/software). Nato zaženite Arduino IDE in kliknite na File > Open, da izberete preneseno datoteko s kodo. S pomočjo USB kabla povežite svojo Arduino ploščico z računalnikom. V Arduino IDE kliknite na Tools > Board in izberite svojo Arduino ploščico (npr. Arduino Uno). Nato kliknite na Tools > Port in izberite ustrezen COM port, ki je dodeljen vaši ploščici. Ko ste nastavili ploščico in vrata, kliknite na gumb Upload (puščica desno) v Arduino IDE, da naložite kodo na vašo Arduino ploščico. Počakajte, da se nalaganje zaključi. Ko je postopek uspešno zaključen, bo na dnu Arduino IDE okna prikazano sporočilo "Done uploading".
+
+## Videoposnetek delovanja
 
 
 
