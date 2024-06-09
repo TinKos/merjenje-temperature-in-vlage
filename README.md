@@ -16,8 +16,10 @@ Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 |Arduino UNO R3|   1   |
 |Protoboard|   1   |
 |I2C LCD zaslon|   1   |
-|Digitalni merilnik kapacitivnosti|   1   |
-|Žičke|   6-10   |
+|DHT11 senzor|   1   |
+|LED diode|   1   |
+|Upor|   3   |
+|Povezovalne žice|   12   |
 
 ## Vezalna shema
 ### Fritzing
