@@ -17,7 +17,7 @@ Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 |Protoboard|   1   |
 |I2C LCD zaslon|   1   |
 |DHT11 senzor|   1   |
-|LED diode|   1   |
+|LED diode|   3   |
 |Upor|   3   |
 |Povezovalne žice|   12   |
 
