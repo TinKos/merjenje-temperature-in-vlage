@@ -39,7 +39,7 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 ## Videoposnetek delovanja
 
 ## Ocena natančnosti
-Podatki iz [DHT11 datasheet-a](DHT11_Datasheet.pdf):
+__*Podatki natančnosti iz [DHT11 datasheet-a](DHT11_Datasheet.pdf):*__
 
 
 Natančnost meritve **temperature:** ± 2 °C
@@ -49,6 +49,22 @@ Natančnost meritve **vlage:** ± 5 % RH
 
 
 Temperaturno območje: 0-50 °C
+
+
+__*Podatki natančnosti na realnem primeru:*__
+
+
+Natančnost meritve **temperature:** ± 1 °C
+
+
+Natančnost meritve **vlage:** / 
+
+
+Temperaturno območje: 0-60 °C
+
+
+
+
 
 ## Komentar
 Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen.
