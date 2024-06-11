@@ -50,6 +50,7 @@ Natančnost meritve **vlage:** ± 5 % RH
 
 Temperaturno območje: 0-50 °C
 
+--------------------------------------------------------------
 
 __*Podatki natančnosti na realnem primeru:*__
 
@@ -61,6 +62,8 @@ Natančnost meritve **vlage:** /
 
 
 Temperaturno območje: 0-60 °C
+
+--------------------------------------------------------------
 
 
 Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet). Natančnost meritve temperature je ± 1%.
