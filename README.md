@@ -63,7 +63,10 @@ Natančnost meritve **vlage:** /
 Temperaturno območje: 0-60 °C
 
 
-Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70]
+Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet). Natančnost meritve temperature je ± 1%.
+
+
+Vlage nismo mogli izmeriti, saj nismo imeli instrumenta oz. naprave za merjenje vlage, zato podatka o natančnosti realnega primera, nimamo.
 
 
 ## Komentar
