@@ -66,16 +66,16 @@ Temperaturno območje: 0-60 °C
 --------------------------------------------------------------
 
 
-Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet). Natančnost meritve temperature je ± 1%.
+Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet). Natančnost meritve multimetra temperature je ± 1%.
 
 
-Vlage nismo mogli izmeriti, saj nismo imeli instrumenta oz. naprave za merjenje vlage, zato podatka o natančnosti realnega primera, nimamo.
+Vlage nismo mogli izmeriti, saj nismo imeli instrumenta oz. naprave za merjenje vlage, zato podatka o natančnosti realnega primera nimamo.
 
 
 ## Komentar
 Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen.
 
-Za izboljšanje te naprave bi lahko uporabili senzor DHT22 namesto DHT11, kar bi omogočilo izpis temperature na 0.1°C natančno, namesto na 1°C, kot ga omogoča senzor DHT11. Poleg tega bi lahko nadgradili mikrokontroler, na primer z uporabo Arduino UNO REV4 WiFi, ESP32, MKR WiFi, Portenta H7 itd. Ti mikrokontrolerji ponujajo dodatne funkcionalnosti, kot je WiFi povezljivost, kar bi omogočilo nadzor nad temperaturo in vlago preko Arduino Clouda. S tem bi lahko shranjevali in analizirali podatke ter imeli dodatne možnosti upravljanja naprave. Te izboljšave bi pripomogle k večji natančnosti, funkcionalnosti in uporabniku prijaznosti vaše naprave.
+Za izboljšanje te naprave bi lahko uporabili senzor DHT22 namesto DHT11, kar bi omogočilo izpis temperature na 0.1°C natančno, namesto na 1°C, kot ga omogoča senzor DHT11. Poleg tega bi lahko nadgradili mikrokontroler, na primer z uporabo Arduino UNO REV4 WiFi, ESP32, MKR WiFi, Portenta H7 itd. Ti mikrokontrolerji ponujajo dodatne funkcionalnosti, kot je WiFi povezljivost, kar bi omogočilo nadzor nad temperaturo in vlago preko Arduino Clouda. S tem bi lahko shranjevali in analizirali podatke ter imeli dodatne možnosti upravljanja naprave. Te izboljšave bi pripomogle k večji natančnosti, funkcionalnosti in uporabniku prijaznosti naše naprave.
 
 
 
