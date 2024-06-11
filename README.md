@@ -63,7 +63,7 @@ Natančnost meritve **vlage:** /
 Temperaturno območje: 0-60 °C
 
 
-
+Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70]
 
 
 ## Komentar
