@@ -45,7 +45,10 @@ Podatki iz [DHT11 datasheet-a](DHT11_Datasheet.pdf):
 Natančnost meritve **temperature:** ± 2 °C
 
 
-Natančnost meritve **temperature:** ± 5 % RH
+Natančnost meritve **vlage:** ± 5 % RH
+
+
+Temperaturno območje: 0-50 °C
 
 ## Komentar
 Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen.
