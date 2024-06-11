@@ -40,7 +40,12 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 
 ## Ocena natančnosti
 Podatki iz [DHT11 datasheet-a](DHT11_Datasheet.pdf):
-Natančnost meritve **temperature:** ± 2%
+
+
+Natančnost meritve **temperature:** ± 2 °C
+
+
+Natančnost meritve **temperature:** ± 5 % RH
 
 ## Komentar
 Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen.
