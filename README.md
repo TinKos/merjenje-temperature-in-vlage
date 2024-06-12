@@ -42,8 +42,8 @@ Kliknite na povezavo in prenesite datoteko na svoj računalnik. Če še nimate n
 
 ## Ohišje 
 
-STL datoteka ohišja naprave za merjenje temperature in vlage: [STL - ohišje]()
-Slika 3D modela ohišja naprave za merjenje temperature in vlage: [Slika 3D modela - ohišje]()
+STL datoteka ohišja naprave za merjenje temperature in vlage: [STL - ohišje](ohisje_naprava_temperatura_vlaga.stl)
+Slika 3D modela ohišja naprave za merjenje temperature in vlage: [Slika 3D modela - ohišje](ohisje_naprava_temperatura_vlaga.png)
 
 ## Videoposnetek delovanja
 
