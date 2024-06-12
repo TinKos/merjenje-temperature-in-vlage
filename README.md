@@ -52,6 +52,8 @@ Slika 3D modela ohišja naprave za merjenje temperature in vlage: [Slika 3D mode
 
 ## Slika končne naprave
 
+Slika končne naprave je dosegljiva tukaj: [Končna naprava](koncna_naprava.jpg)
+
 
 ## Videoposnetek delovanja
 
