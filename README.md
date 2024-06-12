@@ -10,8 +10,8 @@ Naprava za merjenje temperature in vlage uporablja senzor DHT11, ki periodično 
 
 ## Kosovnica 
 
-Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica.xlsx)
-|Uporabljen predmet|Št. kosov|
+Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica_materiala.xlsx)
+|Sestavni del|Št. kosov|
 |---|---|
 |Arduino UNO R3|   1   |
 |Protoboard|   1   |
@@ -20,6 +20,7 @@ Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 |LED diode|   3   |
 |Upor|   3   |
 |Povezovalne žice|   12   |
+|Ohišje - PLA filament|   /   |
 
 ## Vezalna shema
 ### Fritzing
