@@ -47,6 +47,12 @@ STL datoteka ohišja naprave za merjenje temperature in vlage: [STL - ohišje](o
 
 Slika 3D modela ohišja naprave za merjenje temperature in vlage: [Slika 3D modela - ohišje](ohisje_naprava_temperatura_vlaga.png)
 
+## Slika vezave
+![IMG_20240612_185038](https://github.com/TinKos/merjenje-temperature-in-vlage/assets/171680852/6418ea62-5ba8-408b-8c4d-2e2b0602fe2c)
+
+## Slika končne naprave
+
+
 ## Videoposnetek delovanja
 
 ## Ocena natančnosti
