@@ -29,6 +29,10 @@ Podroben seznam uporabljenega materiala je na voljo tukaj: [Kosovnica](kosovnica
 
 [Vezalna shema - EasyEDA](vezalna_shema_EasyEDA.png)
 
+## Uporabljane enačbe
+
+PDF datoteko z vsemi uporabljenimi enačbami in izračuni za predupore LED diode je na voljo tukaj [Uporabljene enačbe](enacbe_predupori.pdf)
+
 ## Arduino programska koda
 
 Programsko kodo lahko najdete tukaj: [Arduino program](MRE_merjenje_temperature_vlage.ino)
