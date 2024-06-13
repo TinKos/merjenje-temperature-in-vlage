@@ -75,7 +75,7 @@ Temperaturno območje senzorja: 0-50 °C
 __*Podatki natančnosti na realnem primeru:*__
 
 
-Natančnost meritve **temperature:** ± 0 °C (meritev je bila opravljena pri 24°C)
+Natančnost meritve **temperature:** ± 0 °C (meritev je bila opravljena pri 24 °C)
 
 
 Natančnost meritve **vlage:** / 
@@ -85,10 +85,10 @@ Temperaturno območje senzorja: 0-60 °C
 
 --------------------------------------------------------------
 
-Pri 24°C je naša naprava točna (razlika med temperaturo, ki jo je izmeril multimeter in tempereaturo, ki jo je izmerila naša naprava, je 0°C. Z višanjem temperature pa se je ta napaka večala, ker pa je senzor temperaturno omejen na 60°C (izmerjeno), temperature višje od te ne more zaznati. Prav tako je trajalo več časa, da je senzor samo temperaturo zaznal in jo prikazal na LCD zaslonu. 
+Pri 24 °C je naša naprava točna (razlika med temperaturo, ki jo je izmeril multimeter in tempereaturo, ki jo je izmerila naša naprava, je 0 °C). Z višanjem temperature pa se je ta napaka večala, ker pa je senzor temperaturno omejen na 60 °C (izmerjeno), temperature višje od te ne more zaznati. Prav tako je trajalo več časa, da je senzor samo temperaturo zaznal in jo prikazal na LCD zaslonu. 
 
 
-Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet.pdf). Natančnost meritve multimetra temperature je ± 1%.
+Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet.pdf). Natančnost meritve multimetra temperature je ± 1 %.
 
 
 Vlage nismo mogli izmeriti, saj nismo imeli instrumenta oz. naprave za merjenje vlage, zato podatka o natančnosti realnega primera nimamo.
@@ -97,8 +97,8 @@ Vlage nismo mogli izmeriti, saj nismo imeli instrumenta oz. naprave za merjenje 
 
 
 ## Komentar
-Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen. Meritve temperature in vlage so dovolj natančne za uporabo naše naprave namesto drugih primerljivih naprav. 
-Same natančnosti meritve s tem senzorjem ni mogoče izboljšati, ker ga ne moremo kalibrirati.
+Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen. Meritve temperature in vlage so dovolj natančne za uporabo naše naprave namesto drugih primerljivih naprav pri nekih normalnih temperaturah (med 20 °C in 35 °C). Če pa bi želeli opravljati meritve temperature višjih temperatur (med 35 °C in 60 °C), pa bi bila naša naprava premalo natančna. 
+Same natančnosti meritve s tem senzorjem ni mogoče izboljšati, ker ga ne moremo kalibrirati. 
 
 
 Senzor DHT11 ne potrebuje kalibracije. DHT11 je tovarniško kalibriran in pripravljen za uporabo. To pomeni, da bi moral zagotavljati natančne meritve temperature in vlažnosti takoj po povezavi in inicializaciji. Če se pojavijo težave z natančnostjo, je najpogosteje razlog napačna uporaba ali nepravilne povezave. 
