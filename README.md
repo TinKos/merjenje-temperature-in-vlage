@@ -101,7 +101,7 @@ Naprava deluje v skladu s pričakovanji in izpolnjuje svoj namen. Meritve temper
 Same natančnosti meritve s tem senzorjem ni mogoče izboljšati, ker ga ne moremo kalibrirati. 
 
 
-Senzor DHT11 ne potrebuje kalibracije. DHT11 je tovarniško kalibriran in pripravljen za uporabo. To pomeni, da bi moral zagotavljati natančne meritve temperature in vlažnosti takoj po povezavi in inicializaciji. Če se pojavijo težave z natančnostjo, je najpogosteje razlog napačna uporaba ali nepravilne povezave. 
+Senzor DHT11 ne potrebuje kalibracije, niti ga ne moremo kalibrirati. DHT11 je tovarniško kalibriran in pripravljen za uporabo. To pomeni, da bi moral zagotavljati natančne meritve temperature in vlažnosti takoj po povezavi in inicializaciji. Če se pojavijo težave z natančnostjo, je najpogosteje razlog napačna uporaba ali nepravilne povezave. 
 
 Za izboljšanje te naprave bi lahko uporabili senzor DHT22 namesto DHT11, kar bi omogočilo izpis temperature na 0.1°C natančno, namesto na 1°C, kot ga omogoča senzor DHT11. Poleg tega bi lahko nadgradili mikrokontroler, na primer z uporabo Arduino UNO REV4 WiFi, ESP32, MKR WiFi, Portenta H7 itd. Ti mikrokontrolerji ponujajo dodatne funkcionalnosti, kot je WiFi povezljivost, kar bi omogočilo nadzor nad temperaturo in vlago preko Arduino Clouda. S tem bi lahko shranjevali in analizirali podatke ter imeli dodatne možnosti upravljanja naprave. Te izboljšave bi pripomogle k večji natančnosti, funkcionalnosti in uporabniku prijaznosti naše naprave.
 
