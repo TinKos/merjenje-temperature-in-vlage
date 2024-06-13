@@ -58,6 +58,8 @@ Slika končne naprave je dosegljiva tukaj: [Končna naprava](koncna_naprava.jpg)
 
 ## Videoposnetek delovanja
 
+Videoposnetek je na voljo tukaj: [Videoposnetek delovanja](Videoposnetek_delovanja.mp4)
+
 ## Ocena natančnosti
 __*Podatki natančnosti iz [DHT11 datasheet-a](DHT11_Datasheet.pdf):*__
 
