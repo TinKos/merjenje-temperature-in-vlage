@@ -9,9 +9,9 @@
 #define DHTTYPE DHT11  // Določitev tipa DHT senzorja
 
 // Določitev pinov za LED diode
-#define LED_RD 8
-#define LED_ZE 9
-#define LED_MO 10
+#define LED_RD 7
+#define LED_ZE 8
+#define LED_MO 9
 
 DHT dht(DHTPIN, DHTTYPE);  // Inicializacija DHT senzorja
 
