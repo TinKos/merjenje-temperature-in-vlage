@@ -85,7 +85,7 @@ Temperaturno območje senzorja: 0-60 °C
 
 --------------------------------------------------------------
 
-Pri 24 °C je naša naprava točna (razlika med temperaturo, ki jo je izmeril multimeter in tempereaturo, ki jo je izmerila naša naprava, je 0 °C). Z višanjem temperature pa se je ta napaka večala, ker pa je senzor temperaturno omejen na 60 °C (izmerjeno), temperature višje od te ne more zaznati. Prav tako je trajalo več časa, da je senzor samo temperaturo zaznal in jo prikazal na LCD zaslonu. 
+Pri 24 °C je naša naprava točna (razlika med temperaturo, ki jo je izmeril multimeter in tempereaturo, ki jo je izmerila naša naprava, je 0 °C). Z višanjem temperature pa se je ta napaka večala, ker pa je senzor temperaturno omejen na 60 °C (izmerjeno), temperature višje od te ne more zaznati. Prav tako je trajalo več časa, da je senzor samo temperaturo zaznal in jo prikazal na LCD zaslonu. Preskoki med branji so postali večji.
 
 
 Tempeartura je bila izmerjena z uporabo multimetra [Kunzer MY70](MY70_Datasheet.pdf). Natančnost meritve multimetra temperature je ± 1 %.
